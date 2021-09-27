@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Github Profile Views](https://komarev.com/ghpvc/?username=cemusavi&style=flat-square&color=lightgrey)](https://github.com/cemusavi)
+[![Github Linked In](https://linkedin.com/cemusavi)](https://github.com/cemusavi)
